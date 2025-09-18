@@ -3,5 +3,3 @@ numpy
 pandas
 seaborn
 matplotlib
-plotly.express
-time
